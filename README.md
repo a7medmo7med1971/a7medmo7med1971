@@ -6,7 +6,7 @@
   
 </div>
 
-## 👨‍💻 Frontend Developer | 🗺️ GIS Specialist
+## Frontend Developer | GIS Developer
 
 <div align="center">
   
