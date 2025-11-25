@@ -35,14 +35,35 @@
 ---
 
 ## 🔗 Connect With Me
-<p>
+## 🔗 Connect With Me
+<p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmed-mohamed-3160b6264" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/a7medmo7med1971" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
+
+  <!-- Portfolio -->
+  <a href="https://myportfolioahmedmo7amed.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:ahmedmohamedibrahim636@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201099229118" target="_blank">
+    <img src="https://skillicons.dev/icons?i=android" width="45"/>
+  </a>
+
 </p>
+
 
 ---
 
